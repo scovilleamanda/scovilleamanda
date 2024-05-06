@@ -14,11 +14,14 @@ I'm a Computer Science student passionate about coding, data analysis, and softw
 - Programming Languages: Python, Java, C++, C
 - Tools & Technologies: Git, GitHub, Jupyter Notebook, AWS
 
+<!--
 ## 🌟 Projects
 
 - [Project 1](link): Brief description.
 - [Project 2](link): Brief description.
 - [Project 3](link): Brief description.
+-->
+
 
 ## 📫 Let's Connect
 
